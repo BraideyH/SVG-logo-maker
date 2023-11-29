@@ -4,6 +4,8 @@
   
   This is a command line application that will create a simple logo for the user.
 
+[SVG-logo-generator-demo.webm](https://github.com/BraideyH/SVG-logo-maker/assets/143223506/2d2011b0-f804-4eb6-8b42-48b113bac75f)
+
   
   ## Installation
   
