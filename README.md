@@ -4,13 +4,6 @@
   
   This is a command line application that will create a simple logo for the user.
 
-  ## Table of Contents (Optional)
-  
-  If your README is long, add a table of contents to make it easy for users to find what they need.
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
   
   ## Installation
   
